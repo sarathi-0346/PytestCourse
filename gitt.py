@@ -2,3 +2,5 @@
 
 msg = "Hello friends"
 
+
+print(msg)
